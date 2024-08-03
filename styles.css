@@ -440,7 +440,7 @@ margin-left: -3px;
     height: 300px;
   }
 }
-@media (max-width:497px) {
+@media (max-width:430px) {
   .hero-section{
     transform: translateX(-100px);
     display: flex;
